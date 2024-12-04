@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "679323863675",
+    "project_id": "memorize-bb3a4",
+    "storage_bucket": "memorize-bb3a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679323863675:android:e33621844bd7091ed530de",
+        "android_client_info": {
+          "package_name": "com.example.memorize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679323863675-1vs6umhrhkp54h4iulc0rft3d5ag752a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.memorize",
+            "certificate_hash": "ee4753cf4943a659fea446cab1d49b2fc7324148"
+          }
+        },
+        {
+          "client_id": "679323863675-ln2q93p8o6s8qi81l8npq0jpvek0an7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOZ9JEoJq_vHuENzl4tsYXC9el3XLQnHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679323863675-ln2q93p8o6s8qi81l8npq0jpvek0an7f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "679323863675-a8iscbsc241rjfp8limmgcj5tntdkc6f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.memorize"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
